@@ -1,0 +1,5 @@
+#python=3.7
+
+opencv-python==4.8.0.76
+mtcnn
+tensorflow==2.11.0
